@@ -1,0 +1,8 @@
+{
+    "name": "nextjs-importdoc-example",
+    "version": 2,
+    "alias": [
+        "nextjs-importdoc-example"
+    ],
+    "scope": "importdoc"
+}

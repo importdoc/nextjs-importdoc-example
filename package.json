@@ -1,0 +1,25 @@
+{
+  "name": "nextjs-importdoc-example",
+  "version": "4.0.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "4.2.1",
+    "@material-ui/styles": "latest",
+    "clsx": "latest",
+    "isomorphic-fetch": "2.2.1",
+    "next": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "engines": {
+    "node": "8.10.x"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "description": ""
+}
